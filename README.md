@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikramal
 - 👀 I’m interested in learning newer technologies
-- 🌱 I’m currently learning vue JS
+- 🌱 I’m currently learning Laravel and vueJS
 - 📫 How to reach me vikramal1993@gmail.com
 
 <!---
